@@ -1,14 +1,15 @@
 {
-  "name": "my-first-bot",
+  "name": "studbudie",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Discord bot that helps students stay focused with Pomodoro timers, motivational quotes, study tips, and brain challenges.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["discord", "bot", "study", "pomodoro", "productivity"],
+  "author": "swyaeta",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "discord.js": "^14.26.4",
