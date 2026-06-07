@@ -14,4 +14,6 @@ Study Buddy is an intelligent Discord study assistant designed to help students 
 Whether you're preparing for exams, completing assignments, or trying to build better study habits, Study Buddy helps make learning more engaging and effective.
 
 Use !help to view all available commands and start studying smarter.
-check out:https://discord.com/oauth2/authorize?client_id=1512456266029465610&permissions=3229760&integration_type=0&scope=bot
+## Invite Study Buddy
+
+[Invite Study Buddy to your server](https://discord.com/oauth2/authorize?client_id=1512456266029465610&permissions=3229760&integration_type=0&scope=bot)
