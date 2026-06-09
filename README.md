@@ -17,3 +17,6 @@ Use !help to view all available commands and start studying smarter.
 ## Invite Study Buddy
 
 [Invite Study Buddy to your server](https://discord.com/oauth2/authorize?client_id=1512456266029465610&permissions=3229760&integration_type=0&scope=bot)
+
+## Test Server
+[Click here to join the Study Buddy test server](https://discord.gg/pjCQZ5Dt4N)
