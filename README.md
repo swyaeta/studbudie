@@ -22,8 +22,7 @@ Use !help to view all available commands and start studying smarter.
 [Click here to join the Study Buddy test server](https://discord.gg/pjCQZ5Dt4N)
 
 ## How to Use Studbudie
-Studbudie uses prefix commands instead of slash commands. To check her out, you should try these in the testing server
-
+Studbudie uses prefix commands instead of slash commands. To check her out, you should try these 
  1)!intro - Get a quick introduction to what Studbudie can do. 
  
  2)!help - See a list of available commands and features.
