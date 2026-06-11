@@ -23,5 +23,6 @@ Use !help to view all available commands and start studying smarter.
 
 ## How to Use Studbudie
 Studbudie uses prefix commands instead of slash commands. To check her out, you should try these in the testing server:
-!intro - Get a quick introduction to what Studbudie can do.
- !help - See a list of available commands and features.
+ 1)!intro - Get a quick introduction to what Studbudie can do. 
+ 
+ 2)!help - See a list of available commands and features.
