@@ -9,7 +9,7 @@ Study Buddy is an intelligent Discord study assistant designed to help students 
 • Exam preparation help
 • Helpful utility commands
 • Interactive study tools
-• And much more
+• And sooo much more 
 
 Whether you're preparing for exams, completing assignments, or trying to build better study habits, Study Buddy helps make learning more engaging and effective.
 
