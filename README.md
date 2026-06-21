@@ -1,4 +1,4 @@
-Study Buddy is an intelligent Discord study assistant designed to help students stay focused, organized, and productive. With 20+ commands and multiple productivity features, Study Buddy turns your server into a better learning space.
+Study Buddy is a intelligent Discord study assistant designed to help students stay focused, organized, and productive. With 20+ commands and multiple productivity features, Study Buddy turns your server into a better learning space.
 
 ✨ Features:
 • Pomodoro study timers
